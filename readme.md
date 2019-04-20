@@ -6,7 +6,6 @@
 
 `cdn_finder.py`, 判断输入的域名的使用的CDN情况
 
-
-
+`delete_logs.py`，在程序不停止的情况下，自动清空程序运行日志
 
 
