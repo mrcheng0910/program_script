@@ -10,4 +10,6 @@
 
 `is_legal_ip.py`, 判断IP地址是否合规
 
+`jupyter_code.py`，收集jupyter的配置情况，用于数据分析
+
 
