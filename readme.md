@@ -12,4 +12,7 @@
 
 `jupyter_code.py`，收集jupyter的配置情况，用于数据分析
 
+`data_analysis.py`，收集数据分析常用的语句
+
+`fetch_ip_web_page.py`，获取指定域名和IP的网页内容
 
